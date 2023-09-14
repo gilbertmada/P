@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ProjectSchoolGestion/static/css/main.073c9b0a.css",
+    "main.js": "/ProjectSchoolGestion/static/js/main.782cc892.js",
+    "static/js/787.c8561226.chunk.js": "/ProjectSchoolGestion/static/js/787.c8561226.chunk.js",
+    "index.html": "/ProjectSchoolGestion/index.html",
+    "main.073c9b0a.css.map": "/ProjectSchoolGestion/static/css/main.073c9b0a.css.map",
+    "main.782cc892.js.map": "/ProjectSchoolGestion/static/js/main.782cc892.js.map",
+    "787.c8561226.chunk.js.map": "/ProjectSchoolGestion/static/js/787.c8561226.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.782cc892.js"
+  ]
+}
